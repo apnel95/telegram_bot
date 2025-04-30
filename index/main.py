@@ -191,7 +191,7 @@ async def receive_name(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 if __name__ == '__main__':
 
-    TOKEN = '7482807396:AAHAAl4mNJzfqwDOCxVJRgsOT7gXBVVnyzs'
+    TOKEN = 'TOKEN'
     app = ApplicationBuilder().token(TOKEN).build()
 
     app.add_handler(CommandHandler('start', start))
