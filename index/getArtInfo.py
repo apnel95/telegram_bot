@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "jiI0aByd"
+API_KEY = "ключ"
 PAINTING_IDS = [
 #Список
 ]
