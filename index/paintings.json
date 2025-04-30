@@ -1,0 +1,54 @@
+[
+  {
+    "title": "The Night Watch",
+    "principalOrFirstMaker": "Rembrandt van Rijn",
+    "dating": { "year": "1642" },
+    "productionPlaces": ["Amsterdam"],
+    "description": "Officieren en andere schutters van wijk II in Amsterdam onder leiding van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, sinds het einde van de 18de eeuw bekend als ‘De Nachtwacht’. Schutters van de Kloveniersdoelen uit een poort naar buiten tredend. Op een schild aangebracht naast de poort staan de namen van de afgebeelde personen: Frans Banning Cocq, heer van purmerlant en Ilpendam, Capiteijn Willem van Ruijtenburch van Vlaerdingen, heer van Vlaerdingen, Lu[ij]tenant, Jan Visscher Cornelisen Vaendrich, Rombout Kemp Sergeant, Reijnier Engelen Sergeant, Barent Harmansen, Jan Adriaensen Keyser, Elbert Willemsen, Jan Clasen Leydeckers, Jan Ockersen, Jan Pietersen bronchorst, Harman Iacobsen wormskerck, Jacob Dircksen de Roy, Jan vander heede, Walich Schellingwou, Jan brugman, Claes van Cruysbergen, Paulus Schoonhoven. De schutters zijn gewapend met onder anderen pieken, musketten en hellebaarden. Rechts de tamboer met een grote trommel. Tussen de soldaten links staat een meisje met een dode kip om haar middel, rechts een blaffende hond. Linksboven de vaandrig met de uitgestoken vaandel.",
+    "googleArtsUrl": "https://artsandculture.google.com/streetview/eQEojRwTdypUKA",
+    "image": "https://iiif.micr.io/PJEZO/73,73,14459,11936/%5E830,/0/default.webp",
+    "location": "Rijksmuseum, Amsterdam"
+  },
+  {
+    "title": "The Little Street",
+    "principalOrFirstMaker": "Johannes Vermeer",
+    "dating": { "year": "1658" },
+    "productionPlaces": ["Delft"],
+    "description": "Gezicht op huizen in Delft, bekend als 'Het straatje'. De gevels van enkele huizen aan een straat in Delft. Tussen de huizen een steegje waar een vrouw over een wastobbe gebogen staat. In de openstaande deur van het huis rechts zit een vrouw te handwerken, links voor het huis op de stoep twee spelende kinderen.",
+    "googleArtsUrl": "https://artsandculture.google.com/streetview/YAGJRuPz8yVuRQ",
+    "image": "https://iiif.micr.io/VWEov/0,0,5148,6340/%5E830,/0/default.webp",
+    "location": "Rijksmuseum, Amsterdam"
+  },
+  {
+    "title": "The Feast of Saint Nicholas",
+    "principalOrFirstMaker": "Jan Havicksz. Steen",
+    "dating": { "year": "1665" },
+    "productionPlaces": ["Haarlem"],
+    "description": "Interieur waarin een familie het Sint Nicolaasfeest viert. In het midden een meisje met in haar armen een Johannes de Doper-pop en een emmer met snoep. Links een huilende jongen die een roe in zijn schoen heeft gekregen. Naast de moeder met uitgestoken armen staat een lachende jongen met een kolfstok. Op de vloer staat een mand met koeken en broodjes, bij de schoorsteen zingen enkele jongeren een sinterklaaslied. Op de achtergrond een oudere man en vrouw.",
+    "googleArtsUrl": "https://artsandculture.google.com/streetview/HQH272DWHOl8aA?hl=en",
+    "image": "https://iiif.micr.io/WZzyz/111,111,4501,5292/%5E830,/0/default.webp",
+    "location": "Rijksmuseum, Amsterdam"
+  },
+  {
+    "title": "Landscape with Waterfall",
+    "principalOrFirstMaker": "Jacob Isaacksz van Ruisdael",
+    "dating": { "year": "1660" },
+    "productionPlaces": ["Netherlands"],
+    "description": "Landschap met op de voorgrond een brede waterval over rotsen met links en rechts boomstammen. Op de achtergrond een bos, in de verte een kerktoren en de molens van een dorp.",
+    "googleArtsUrl": "https://artsandculture.google.com/streetview/2AE9EbjiAgvCrA",
+    "image": "https://iiif.micr.io/PDbGh/0,0,6068,4379/%5E830,/0/default.webp",
+    "location": "Rijksmuseum, Amsterdam"
+  },
+  {
+    "title": "Windmill at Wijk bij Duurstede",
+    "principalOrFirstMaker": "Jacob van Ruisdael",
+    "dating": { "year": "1670" },
+    "productionPlaces": ["Netherlands"],
+    "description": "De molen bij Wijk bij Duurstede. Links de rivier de Lek met een bootje, rechts de molen nabij de oever. In de verte de torens van kasteel Duurstede, rechts de toren van de Sint-Janskerk. Langs de oever lopen enkele vrouwen.",
+    "googleArtsUrl": "https://artsandculture.google.com/streetview/5gHsKOHsLvPatg",
+    "image": "https://iiif.micr.io/XWEFp/117,176,6726,5523/%5E830,/0/default.webp",
+    "location": "Rijksmuseum, Amsterdam"
+
+  }
+]
+
