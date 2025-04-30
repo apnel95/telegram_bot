@@ -38,6 +38,5 @@ for obj_number in PAINTING_IDS:
     except Exception as e:
         print(f"Ошибка {obj_number}: {e}")
 
-# Сохранение в файл
 with open("selected_paintings.json", "w", encoding="utf-8") as f:
     json.dump(paintings_data, f, ensure_ascii=False, indent=2)
